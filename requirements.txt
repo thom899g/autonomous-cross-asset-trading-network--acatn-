@@ -1,0 +1,14 @@
+# ACATN Core Dependencies
+# Standard, well-documented libraries only
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+ccxt>=4.0.0
+requests>=2.31.0
+firebase-admin>=6.2.0
+python-dotenv>=1.0.0
+gym>=0.26.0
+tensorflow>=2.13.0
+ta>=0.10.0  # Technical Analysis library
+schedule>=1.2.0
+loguru>=0.7.0
